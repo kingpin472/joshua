@@ -1,8 +1,5 @@
-from ast import NamedExpr
-
-
 def sayhi(name):
-    print("Hello" + name)
+    print("Hello " + name)
 sayhi("mike")
-name="mike"
-print("Hello")
+name= " mike "
+print(" Hello ")

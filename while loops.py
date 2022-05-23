@@ -1,8 +1,8 @@
 #while loops
-i=50
+i=0
 while i<60:
     print(i)
-    i+=3
+    i+=1
 print("finished")
 i=0
 while i<=15:

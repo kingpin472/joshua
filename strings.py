@@ -15,7 +15,7 @@ print(fruit[:2])
 print(fruit[2:])
 print(fruit[-1:])
 #strip is to remove spaces before
-f_name="     joshua "
+f_name="joshua "
 print(f_name.strip())
 s_name="nyanjui"
 full_name=f_name+s_name#string concatination
